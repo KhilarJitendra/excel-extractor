@@ -1,0 +1,14 @@
+{
+    "assignedTo": "Gaurav",
+    "sheets": [
+        {
+            "url": "https://docs.google.com/spreadsheets/d/14N2Ob5-fMHDWbU9p26mpBVuVupV2WnCGsrAC5pnWxuY/gviz/tq?tqx=out:csv&sheet=Task%20List",
+            "tabName": "",
+            "taskNameColumns": [
+                "Epic",
+                "Story"
+            ],
+            "ownerColumn": "Owner"
+        }
+    ]
+}
